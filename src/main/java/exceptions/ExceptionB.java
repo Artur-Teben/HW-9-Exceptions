@@ -1,4 +1,4 @@
 package exceptions;
 
-public class ExceptionB extends Exception{
+public class ExceptionB extends ExceptionA{
 }
